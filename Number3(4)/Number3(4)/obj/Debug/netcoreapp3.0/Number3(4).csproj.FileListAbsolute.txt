@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\bin\Debug\netcoreapp3.0\Number3(4).exe
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\bin\Debug\netcoreapp3.0\Number3(4).deps.json
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\bin\Debug\netcoreapp3.0\Number3(4).runtimeconfig.json
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\bin\Debug\netcoreapp3.0\Number3(4).runtimeconfig.dev.json
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\bin\Debug\netcoreapp3.0\Number3(4).dll
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\bin\Debug\netcoreapp3.0\Number3(4).pdb
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\obj\Debug\netcoreapp3.0\Number3(4).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\obj\Debug\netcoreapp3.0\Number3(4).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\obj\Debug\netcoreapp3.0\Number3(4).AssemblyInfo.cs
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\obj\Debug\netcoreapp3.0\Number3(4).dll
+C:\Users\USER\source\repos\Number3(4)\Number3(4)\obj\Debug\netcoreapp3.0\Number3(4).pdb
