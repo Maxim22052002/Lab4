@@ -1,0 +1,44 @@
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).exe
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).deps.json
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).runtimeconfig.json
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).runtimeconfig.dev.json
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).dll
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).pdb
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).AssemblyInfo.cs
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).dll
+C:\Users\Максим\source\repos\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).pdb
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).exe
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).deps.json
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).runtimeconfig.json
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).runtimeconfig.dev.json
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).dll
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).pdb
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).AssemblyInfo.cs
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).dll
+C:\Users\USER\Desktop\Программирование\Лаб 4\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).pdb
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).exe
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).deps.json
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).runtimeconfig.json
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).runtimeconfig.dev.json
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).dll
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).pdb
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).AssemblyInfo.cs
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).dll
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).pdb
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).exe
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).deps.json
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).runtimeconfig.json
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).runtimeconfig.dev.json
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).dll
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\bin\Debug\netcoreapp3.0\Number4(4).pdb
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).AssemblyInfo.cs
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).dll
+C:\Users\USER\Desktop\Лаб4(Clear)\Number4(4)+\Number4(4)\obj\Debug\netcoreapp3.0\Number4(4).pdb
